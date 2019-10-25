@@ -354,7 +354,7 @@ Citizen.CreateThread(function()
 					OpenMenuGarage('spawn')
 				end
 				if CurrentAction == 'delete' then
-					OpenMenuGarage('delete')
+					StockVehicleMenu()
 				end
 
 
