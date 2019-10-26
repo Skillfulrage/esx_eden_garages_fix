@@ -35,14 +35,14 @@ Config.Garages = {
 		Color = {r = 204, g = 204, b = 0},
 		Marker = 1,
 		SpawnPoint = {
-			Pos = {x=478.82, y=-1113.25, z=29.2},
+			Pos = {x=478.82, y=-1113.25, z=28.25‬},
 			Color = {r=0,g=255,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Heading=172.96,
 			Marker = 1		
 		},
 		DeletePoint = {
-			Pos = {x=465.18, y=-1113.54, z=29.2},
+			Pos = {x=465.18, y=-1113.54, z=28.25‬},
 			Color = {r=255,g=0,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Marker = 1,
@@ -55,14 +55,14 @@ Config.Garages = {
 		Color = {r = 204, g = 204, b = 0},
 		Marker = 1,
 		SpawnPoint = {
-			Pos = {x=1032.28, y=-777.81, z=29.2},
+			Pos = {x=1032.28, y=-777.81, z=57.05‬),
 			Color = {r=0,g=255,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Heading=44.11,
 			Marker = 1		
 		},
 		DeletePoint = {
-			Pos = {x=1041.77, y=-786.72, z=58},
+			Pos = {x=1041.77, y=-786.72, z=57.05‬},
 			Color = {r=255,g=0,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Marker = 1,
@@ -75,14 +75,14 @@ Config.Garages = {
 		Color = {r = 204, g = 204, b = 0},
 		Marker = 1,
 		SpawnPoint = {
-			Pos = {x=-61.4, y=-1841.37, z=26.64},
+			Pos = {x=-61.4, y=-1841.37, z=25.69},
 			Color = {r=0,g=255,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Heading=319.23,
 			Marker = 1		
 		},
 		DeletePoint = {
-			Pos = {x=-67.11, y=-1831.29, z=26.94},
+			Pos = {x=-67.11, y=-1831.29, z=25.69},
 			Color = {r=255,g=0,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Marker = 1,
@@ -95,14 +95,14 @@ Config.Garages = {
 		Color = {r = 204, g = 204, b = 0},
 		Marker = 1,
 		SpawnPoint = {
-			Pos = {x = 386.99,y = 285.49,z = 103.02},
+			Pos = {x = 386.99,y = 285.49,z = 102.07‬},
 			Color = {r=0,g=255,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Heading=74.78,
 			Marker = 1		
 		},
 		DeletePoint = {
-			Pos = {x = 365.26,y = 286.96,z = 103.38},
+			Pos = {x = 365.26,y = 286.96,z = 102.07‬},
 			Color = {r=255,g=0,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Marker = 1,
@@ -115,14 +115,14 @@ Config.Garages = {
 		Color = {r = 204, g = 204, b = 0},
 		Marker = 1,
 		SpawnPoint = {
-			Pos = {x = -479.54,y = -614.38,z = 31.17},
+			Pos = {x = -479.54,y = -614.38,z = 30.22‬},
 			Color = {r=0,g=255,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Heading=181.02,
 			Marker = 1		
 		},
 		DeletePoint = {
-			Pos = {x = -466.72,y = -618.87,z = 31.17},
+			Pos = {x = -466.72,y = -618.87,z = 30.22‬},
 			Color = {r=255,g=0,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Marker = 1,
@@ -135,14 +135,14 @@ Config.Garages = {
 		Color = {r = 204, g = 204, b = 0},
 		Marker = 1,
 		SpawnPoint = {
-			Pos = {x = 837.91,y = -1319.97,z = 26.18},
+			Pos = {x = 837.91,y = -1319.97,z = 25.23‬},
 			Color = {r=0,g=255,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Heading=96.23,
 			Marker = 1		
 		},
 		DeletePoint = {
-			Pos = {x = 824.94,y = -1332.45,z = 26.11},
+			Pos = {x = 824.94,y = -1332.45,z = 25.23‬},
 			Color = {r=255,g=0,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Marker = 1,
@@ -155,14 +155,14 @@ Config.Garages = {
 		Color = {r = 204, g = 204, b = 0},
 		Marker = 1,
 		SpawnPoint = {
-			Pos = {x = 837.91,y = -1319.97,z = 26.18},
+			Pos = {x = 837.91,y = -1319.97,z = 25.23},
 			Color = {r=0,g=255,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Heading=96.23,
 			Marker = 1		
 		},
 		DeletePoint = {
-			Pos = {x = 824.94,y = -1332.45,z = 26.11},
+			Pos = {x = 824.94,y = -1332.45,z = 25.23},
 			Color = {r=255,g=0,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Marker = 1,
@@ -175,14 +175,14 @@ Config.Garages = {
 		Color = {r = 204, g = 204, b = 0},
 		Marker = 1,
 		SpawnPoint = {
-			Pos = {x = -566.35,y = 317.83,z = 84.4},
+			Pos = {x = -566.35,y = 317.83,z = 83.45‬},
 			Color = {r=0,g=255,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Heading=350.11,
 			Marker = 1		
 		},
 		DeletePoint = {
-			Pos = {x = -571.44,y = 329.65,z = 84.52},
+			Pos = {x = -571.44,y = 329.65,z = 83.45‬},
 			Color = {r=255,g=0,b=0},
 			Size  = {x = 5.0, y = 5.0, z = 1.0},
 			Marker = 1,
