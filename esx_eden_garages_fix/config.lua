@@ -4,8 +4,7 @@ Config = {
 	Price = 200,
 	BlipInfos = {
 		Sprite = 290,
-		Color = 67,
-		Scale = 0.8
+		Color = 38
 	},
 }
 
